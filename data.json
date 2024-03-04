@@ -1,0 +1,317 @@
+{
+    "trueFalseQuestions": [
+        {
+            "question": "Hôm nay là thứ hai có đúng không?",
+            "correctAnswer": 1
+        },
+        {
+            "question": "Mùa đông lạnh có đúng không?",
+            "correctAnswer": 1
+        },
+        {
+            "question": "Trái đất có phải là hình tròn hay không?",
+            "correctAnswer": 0
+        },
+        {
+            "question": "Có phải 1 + 1 = 2 không?",
+            "correctAnswer": 1
+        },
+        {
+            "question": "Nguyên tử khối của Đồng là 64 có đúng không",
+            "correctAnswer": 1
+        },
+        {
+            "question": "Hai đường thẳng song song thì có thể có 1 điểm chung?",
+            "correctAnswer": 0
+        },
+        {
+            "question": "Một số là số nguyên tố thì chỉ có 2 ước số?",
+            "correctAnswer": 1
+        },
+        {
+            "question": "Một số chính phương có căn bậc 2 là số vô tỷ?",
+            "correctAnswer": 0
+        },
+        {
+            "question": "Hai số nguyên tố cùng nhau nếu chúng cùng là số lẻ?",
+            "correctAnswer": 0
+        },
+        {
+            "question": "Hình vuông là hình có 4 cạnh bằng nhau?",
+            "correctAnswer": 0
+        }
+    ],
+    "oneChoiceQuestions": [
+        {
+            "question": "Số nguyên tố có mấy ước số:",
+            "answers": [
+                "A. A. 2",
+                "B. B. 3",
+                "C. C. 4",
+                "D. D. 5"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Hai đường thẳng song song thì có mấy điểm chung:",
+            "answers": [
+                "A. A. 1",
+                "B. B. 2",
+                "C. C. 3",
+                "D. D. Không có"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "Số nào là tận cùng của 5^3",
+            "answers": [
+                "A. 2",
+                "B. 3",
+                "C. 4",
+               "D. 5"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "Số nào là số nguyên tố:",
+            "answers": [
+                "A. 10",
+                "B. 7",
+                "C. 20",
+                "D. 25"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Thành phố nào là thủ đô của Nhật Bản:",
+            "answers": [
+                "A. Seoul",
+                "B. Tokyo",
+                "C. Osaka",
+                "D. Beijing"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Đâu là quốc gia có nhiều Đảo nhất",
+            "answers": [
+                "A. Việt Nam",
+                "B. Indonexia",
+                "C. Thái Lan",
+                "D. Nhật Bản"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Thành phố nào là thủ đô của Pháp?",
+            "answers": [
+                "A. Berlin",
+                "B. Madrid",
+                "C. Paris",
+                "D. Rome"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Ai là tác giả của truyện ngắn 'Lão Hạc'?",
+            "answers": [
+                "A. Nam Cao",
+                "B. Kim Lân",
+                "C. Thép mới",
+                "D. Thanh Hải"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Việt Nam từng vô địch AFF Cup bao nhiêu lần",
+            "answers": [
+                "A. 0",
+                "B. 1",
+                "C. 2",
+               "D. 3"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Đại dịch Covid bắt đầu từ năm nào?",
+            "answers": [
+                "A. 2017",
+                "B. 2018",
+                "C. 2019",
+                "D. 2020"
+            ],
+            "correctAnswer": 2
+        }
+    ],
+    "multipleChoiceQuestions": [
+        {
+            "question": "Những ngôn ngữ lập trình nào làm cho trình duyệt hiểu được?",
+            "answers": [
+                "A. HTML",
+                "B. CSS",
+                "C. JavaScript",
+                "D. PHP"
+            ],
+            "correctAnswer": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "question": "Câu lệnh nào được sử dụng để khai báo biến trong JavaScript?",
+            "answers": [
+                "A. var",
+                "B. int",
+                "C. string",
+                "D. const"
+            ],
+            "correctAnswer": [
+                0,
+                3
+            ]
+        },
+        {
+            "question": "Trong CSS, thuộc tính nào được sử dụng để thay đổi màu nền của một phần tử?",
+            "answers": [
+                "A. background-color",
+                "B. color",
+                "C. font-size",
+                "D. border"
+            ],
+            "correctAnswer": [
+                0
+            ]
+        },
+        {
+            "question": "Câu lệnh nào sau đây là câu lệnh điều kiện trong JavaScript?",
+            "answers": [
+                "A. for",
+                "B. while",
+                "C. if",
+                "D. switch"
+            ],
+            "correctAnswer": [
+                2,
+                3
+            ]
+        },
+        {
+            "question": "Ngôn ngữ lập trình nào được sử dụng phổ biến trong việc phát triển ứng dụng di động?",
+            "answers": [
+                "A. Java",
+                "B. Python",
+                "C. Swift",
+                "D. C#"
+            ],
+            "correctAnswer": [
+                0,
+                2
+            ]
+        },
+        {
+            "question": "Ai là người sáng lập ra Facebook?",
+            "answers": [
+                "A. Bill Gates",
+                "B. Steve Jobs",
+                "C. Mark Zuckerberg",
+                "D. Jeff Bezos"
+            ],
+            "correctAnswer": [
+                2
+            ]
+        },
+        {
+            "question": "Ngày nào được coi là 'Ngày Quốc tế Phụ nữ'?",
+            "answers": [
+                "A. 8/3",
+                "B. 20/10",
+                "C. 20/11",
+                "D. 1/5"
+            ],
+            "correctAnswer": [
+                0
+            ]
+        },
+        {
+            "question": "Câu nào sau đây là một loại hình dữ liệu trong Python?",
+            "answers": [
+                "A. list",
+                "B. array",
+                "C. tuple",
+                "D. dictionary"
+            ],
+            "correctAnswer": [
+                0,
+                2,
+                3
+            ]
+        },
+        {
+            "question": "Núi cao nhất thế giới là?",
+            "answers": [
+                "A. Núi Everest",
+                "B. Núi Kilimanjaro",
+                "C. Núi Fuji",
+                "D. Núi McKinley"
+            ],
+            "correctAnswer": [
+                0
+            ]
+        },
+        {
+            "question": "Thủ đô của nước Ý là?",
+            "answers": [
+                "A. Rome",
+                "B. Milan",
+                "C. Venice",
+                "D. Florence"
+            ],
+            "correctAnswer": [
+                0
+            ]
+        }
+    ],
+    "textQuestions": [
+        {
+            "question": "Giải phương trình x^2 - 1 = 0:",
+            "answer": ""
+        },
+        {
+            "question": "Chứng minh hai đường thẳng song song thì không cắt nhau:",
+            "answer": ""
+        },
+        {
+            "question": "Nêu các cách để chứng minh 1 hình là hình vuông:",
+            "answer": ""
+        },
+        {
+            "question": "Nêu các định lý của Fecmar về:",
+            "answer": ""
+        },
+        {
+            "question": "Mô tả quá trình máy tính thực hiện chương trình:",
+            "answer": ""
+        },
+        {
+            "question": "Thực hiện mã hóa vòng bản rõ sau: 'nguyenanhquan':",
+            "answer": ""
+        },
+        {
+            "question": "Nêu quá trình phát triển của sâu bướm:",
+            "answer": ""
+        },
+        {
+            "question": "Nêu các bước chứng minh định lý:",
+            "answer": ""
+        },
+        {
+            "question": "Chứng minh mệnh đề sau là hằng đúng bằng bảng chân lý:",
+            "answer": ""
+        },
+        {
+            "question": "Nêu các bước để chứng minh 1 hình là hình chữ nhật:",
+            "answer": ""
+        }
+    ]
+}
